@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">RU Pizzeria</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Main Menu</string>
+    <string name="second_fragment_label">Select a Chicago Pizza</string>
+    <string name="third_fragment_label">Select a New York Pizza</string>
+    <string name="fourth_fragment_label">Current Order</string>
+    <string name="fifth_fragment_label">Store Orders</string>
+
+    <string name="next">Next</string>
+    <string name="backButton">Back</string>
+
+    <string name="Type_of_Pizza_text">Select your Pizza Type</string>
+    <string name="pizza_type_spinner">Drop Down Menu for Pizza Type</string>
+    <string-array name="types_of_pizzas">
+        <item>BBQ Chicken</item>
+        <item>Deluxe</item>
+        <item>Meatzza</item>
+        <item>Build Your Own</item>
+    </string-array>
+    <string name="Size_of_Pizza_text">Select your Pizza Size</string>
+    <string name="smallSize">Small</string>
+    <string name="mediumSize">Medium</string>
+    <string name="largeSize">Large</string>
+    <string name="Topping_Text">Select your Toppings</string>
+    <string name="sausage">Sausage</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="greenPepper">Green Pepper</string>
+    <string name="onion">Onion</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="bbqChicken">BBQ Chicken</string>
+    <string name="provolone">Provolone</string>
+    <string name="cheddar">Cheddar</string>
+    <string name="beef">Beef</string>
+    <string name="ham">Ham</string>
+    <string name="cheese">Cheese</string>
+    <string name="broccoli">Broccoli</string>
+    <string name="olive">Olive</string>
+    <string name="Crust_Type_text">Crust Type</string>
+    <string name="Crust_Autocomplete">Crust</string>
+    <string name="Total_text">Total</string>
+    <string name="Total_Autocomplete">Total</string>
+    <string name="Add_Order_Button">Add Order to Cart</string>
+
+    <string name="image_of_chicago_pizza">image of chicago pizza</string>
+    <string name="make_chicago_pizza_button">Make Chicago Pizza</string>
+
+    <string name="make_ny_pizza_button">Make New York Pizza</string>
+    <string name="image_of_ny_pizza">Image of New York Pizza</string>
+
+    <string name="current_order_button">Current Order</string>
+    <string name="image_of_shopping_cart">Image to shopping cart</string>
+    <string name="place_order_button">Place Order</string>
+
+    <string name="image_of_store">Image of Store</string>
+    <string name="store_order_button">Store Orders</string>
+    <string name="pizzaTotal">Total</string>
+</resources>
